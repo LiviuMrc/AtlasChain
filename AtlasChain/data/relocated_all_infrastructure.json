@@ -1,0 +1,224 @@
+{
+  "electricity": [
+    {
+      "name": "Agios Dimitrios Power Station",
+      "lat": 39.5375,
+      "lon": 22.8411
+    },
+    {
+      "name": "Megalopoli Power Station",
+      "lat": 37.6086,
+      "lon": 21.1458
+    },
+    {
+      "name": "Kardia Power Station",
+      "lat": 39.5847,
+      "lon": 22.8444
+    },
+    {
+      "name": "Lavrio Power Station",
+      "lat": 37.8144,
+      "lon": 22.0561
+    },
+    {
+      "name": "Aliveri Power Station",
+      "lat": 38.5167,
+      "lon": 23.0333
+    },
+    {
+      "name": "Amyntaio Power Station",
+      "lat": 39.0833,
+      "lon": 20.6667
+    },
+    {
+      "name": "Florina Power Station",
+      "lat": 39.7833,
+      "lon": 22.1167
+    },
+    {
+      "name": "Chania Power Station",
+      "lat": 35.5167,
+      "lon": 24.0167
+    },
+    {
+      "name": "Heron I Power Plant",
+      "lat": 38.5833,
+      "lon": 22.0833
+    },
+    {
+      "name": "Korinthos Power Plant",
+      "lat": 37.8333,
+      "lon": 22.0333
+    }
+  ],
+  "water": [
+    {
+      "name": "Water Pump Station 1",
+      "lat": 38.6839,
+      "lon": 23.8276
+    },
+      {
+      "name": "Water Pump Station 2",
+      "lat": 37.9086,
+      "lon": 21.0458
+    }
+  ],
+  "highways": [
+    {
+      "name": "Highway Segment 1",
+      "lat": 37.9838,
+      "lon": 23.7275
+    },
+    {
+      "name": "Highway Segment 2",
+      "lat": 37.9840,
+      "lon": 23.7300
+    },
+    {
+      "name": "Highway Segment 3",
+      "lat": 37.9850,
+      "lon": 23.7350
+    }
+  ],
+  "ports": [
+    {
+      "name": "Port of Piraeus",
+      "lat": 37.9390,
+      "lon": 23.6440
+    },
+    {
+      "name": "Port2",
+      "lat": 39.5390,
+      "lon": 20.2141
+    },
+    {
+      "name": "Port3",
+      "lat": 40.0590,
+      "lon": 23.4141
+    },
+    {
+      "name": "Port4",
+      "lat": 40.6390,
+      "lon": 24.7041
+    }
+  ],
+  "airports": [
+    {
+      "name": "Athens International Airport",
+      "lat": 37.9364,
+      "lon": 23.9470
+    },
+    {
+      "name": "Thessaloniki International Airport",
+      "lat": 40.5197,
+      "lon": 22.9708
+    },
+    {
+      "name": "Heraklion International Airport",
+      "lat": 35.3397,
+      "lon": 25.1803
+    },
+    {
+      "name": "Rhodes International Airport",
+      "lat": 36.4054,
+      "lon": 28.0862
+    },
+    {
+      "name": "Corfu International Airport",
+      "lat": 39.6019,
+      "lon": 19.9117
+    },
+    {
+      "name": "Chania International Airport",
+      "lat": 35.5317,
+      "lon": 24.1497
+    },
+    {
+      "name": "Santorini International Airport",
+      "lat": 36.3992,
+      "lon": 25.4793
+    },
+    {
+      "name": "Mykonos International Airport",
+      "lat": 37.4351,
+      "lon": 25.3481
+    },
+    {
+      "name": "Kos International Airport",
+      "lat": 36.7933,
+      "lon": 27.0917
+    },
+    {
+      "name": "Zakynthos International Airport",
+      "lat": 37.7508,
+      "lon": 20.8842
+    }
+  ],
+  "military_bases": [
+    {
+      "name": "Salamis Naval Base",
+      "lat": 37.9694,
+      "lon": 23.5278
+    },
+    {
+      "name": "Souda Bay Naval Base",
+      "lat": 35.4963,
+      "lon": 24.1476
+    },
+    {
+      "name": "Elefsina Air Base",
+      "lat": 38.0681,
+      "lon": 23.5539
+    },
+    {
+      "name": "Andravida Air Base",
+      "lat": 38.0333,
+      "lon": 21.2833
+    },
+    {
+      "name": "Tanagra Air Base",
+      "lat": 38.4397,
+      "lon": 23.4644
+    },
+    {
+      "name": "Larissa Air Base",
+      "lat": 39.7314,
+      "lon": 22.3075
+    },
+    {
+      "name": "Kozani Army Base",
+      "lat": 40.4933,
+      "lon": 21.6786
+    },
+    {
+      "name": "Alexandroupoli Army Base",
+      "lat": 40.9631,
+      "lon": 25.7656
+    },
+    {
+      "name": "Megalo Pefko Army Base",
+      "lat": 38.1072,
+      "lon": 23.5289
+    },
+    {
+      "name": "Pachi Army Base",
+      "lat": 38.0806,
+      "lon": 23.4867
+    }
+  ],
+  "countries": [
+    {"name": "Albania", "score": 3, "lat": 41.1533, "lon": 20.1683},
+    {"name": "North Macedonia", "score": 1, "lat": 41.6086, "lon": 21.7453},
+
+    {"name": "Bulgaria", "score": 5, "lat": 42.7339, "lon": 25.4858},
+    {"name": "Turkey", "score": 7, "lat": 39.1208, "lon": 27.8541}
+  ],
+  "flood_zones": [
+        {"lat": 38.9838, "lon": 22.7275, "severity": 8, "name": "Central Flood Zone"},
+        {"lat": 40.6401, "lon": 22.9444, "severity": 6, "name": "Northern Flood Zone"}
+    ],
+  "fire_risk_zones": [
+    {"lat": 37.9838, "lon": 23.7275, "risk": 8, "name": "Athens Fire Risk"},
+    {"lat": 40.6401, "lon": 22.9444, "risk": 5, "name": "Thessaloniki Fire Risk"}
+  ]
+}

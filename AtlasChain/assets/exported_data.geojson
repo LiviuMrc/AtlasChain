@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1683,
+          41.1533
+        ]
+      },
+      "properties": {
+        "name": "Albania",
+        "score": 3,
+        "type": "threat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7453,
+          41.6086
+        ]
+      },
+      "properties": {
+        "name": "North Macedonia",
+        "score": 1,
+        "type": "threat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4858,
+          42.7339
+        ]
+      },
+      "properties": {
+        "name": "Bulgaria",
+        "score": 5,
+        "type": "threat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8541,
+          39.1208
+        ]
+      },
+      "properties": {
+        "name": "Turkey",
+        "score": 7,
+        "type": "threat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7275,
+          38.9838
+        ]
+      },
+      "properties": {
+        "name": "Central Flood Zone",
+        "severity": 8,
+        "type": "flood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "name": "Northern Flood Zone",
+        "severity": 6,
+        "type": "flood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      },
+      "properties": {
+        "name": "Athens Fire Risk",
+        "risk": 8,
+        "type": "fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "name": "Thessaloniki Fire Risk",
+        "risk": 5,
+        "type": "fire"
+      }
+    }
+  ]
+}
